@@ -1,4 +1,4 @@
-# Projects
+# Projects :sparkles:
 Welcome to projects directory! You'll find some project's I've completed here for fun or while exploring some topic of interest. 
 You can view individual projects below:  
 

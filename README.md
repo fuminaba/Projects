@@ -1,5 +1,16 @@
 # Projects :sparkles:
-Welcome to projects directory! You'll find some project's I've completed here for fun or while exploring some topic of interest. 
+Welcome to projects directory! You'll find some project's I've completed here for fun or while exploring some topic of interest.   
+
+## Environment
+Environment management is done using Anaconda (conda version 23.7.4) 
+Many of the projects use TensorFlow 2.10, the version last compatible with Windows Native. The full environment/packages are in the `imaging-informatics-tf.yaml` file.  
+This can be replicated with the following commands: 
+```
+$ conda env create -f imaging-informatics-tf.yaml
+$ conda activate imagin-tf
+```
+where `$` denotes the start of the terminal.
+
 You can view individual projects below:  
 
 | Project # | Project Name | Some Topics | Details | 

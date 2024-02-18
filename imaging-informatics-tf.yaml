@@ -1,4 +1,4 @@
-name: pathomics-tf
+name: imagin-tf
 channels:
   - conda-forge
   - defaults

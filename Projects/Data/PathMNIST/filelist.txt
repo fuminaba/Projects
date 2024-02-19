@@ -1,0 +1,7 @@
+pathmnist_224_test_labels.npy
+pathmnist_224_test.npy
+pathmnist_224_train_labels.npy
+pathmnist_224_train.npy
+pathmnist_224_val_labels.npy
+pathmnist_224_val.npy
+pathmnist_224.npz
